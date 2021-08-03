@@ -13,4 +13,8 @@
     <string name="average">average</string>
     <string name="original">original</string>
     <string name="imdb">imdb</string>
+    <string name="about_story">About story</string>
+    <string name="genre_is">Genre of movie is:</string>
+    <string name="current_ratings">Current ratings:</string>
+    <string name="cast_includes">Cast includes:</string>
 </resources>
