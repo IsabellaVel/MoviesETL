@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">EdenMovies</string>
+    <string name="story">story</string>
+    <string name="actors">actors</string>
+    <string name="url">url</string>
+    <string name="year">year</string>
+    <string name="id">id</string>
+    <string name="genre">genre</string>
+    <string name="ratings">ratings</string>
+    <string name="content">content</string>
+    <string name="duration">duration</string>
+    <string name="release">release</string>
+    <string name="average">average</string>
+    <string name="original">original</string>
+    <string name="imdb">imdb</string>
 </resources>
